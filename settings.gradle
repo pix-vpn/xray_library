@@ -12,6 +12,4 @@ dependencyResolutionManagement {
         mavenCentral()
     }
 }
-rootProject.name = "xray_library"
-include ':app'
-include ':xlib'
+include ':xray'
